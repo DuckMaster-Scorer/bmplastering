@@ -5,7 +5,7 @@
   --grey: #616161;
 }
 
-header {
+.header {
     color: var(--grey);
 }
 
