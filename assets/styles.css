@@ -19,7 +19,7 @@
 }
 
 body {
-    background-color: var(--light-grey);
+    background-color: var(--grey);
     padding: 0px;
     margin: 0px;
 }
