@@ -77,3 +77,12 @@ body {
     height: auto;
     min-width: 119px;
 }
+
+.footer {
+    background-color: var(--white);
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
