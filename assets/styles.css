@@ -7,7 +7,7 @@
 
 .header {
     background-color: var(--white);
-    height: 10vh;
+    height: auto;
 }
 
 body {
