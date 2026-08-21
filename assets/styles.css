@@ -78,6 +78,10 @@ body {
     min-width: 119px;
 }
 
+main {
+  min-height: 10vh;
+}
+
 .footer {
     background-color: var(--white);
     height: auto;
