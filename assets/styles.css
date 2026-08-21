@@ -85,11 +85,23 @@ main {
 .footer {
     background-color: var(--white);
     height: auto;
-    max-height: 250px;
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    flex-direction: column;
     position: relative;
     padding-top: 25px;
     margin-top: 25px;
+}
+
+.footer-main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.copyright {
+  width: 100%;
+  text-align: center;
+  border-top: 1px solid var(--light-grey);
+  padding: 10px 0;
 }
