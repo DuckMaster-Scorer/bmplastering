@@ -8,6 +8,9 @@
 .header {
     background-color: var(--white);
     height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .nomargin {
@@ -19,8 +22,7 @@
 }
 
 .topnav a {
-  float: left;
-  display: block;
+  display: inline-block;
   color: var(--grey);
   text-align: center;
   padding: 14px 16px;
