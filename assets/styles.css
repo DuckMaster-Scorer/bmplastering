@@ -1,4 +1,15 @@
+:root {
+  --black: #000000;
+  --white: #ffffff;
+  --light-grey: #b6b6b6;
+  --grey: #616161;
+}
+
+.header {
+    background-color: var(--grey);
+}
+
 .decorimg {
-    width: 6vw;
+    width: 7vw;
     height: auto;
 }
