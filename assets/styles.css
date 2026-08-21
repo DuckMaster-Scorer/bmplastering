@@ -68,7 +68,7 @@
 
 body {
     background-color: var(--grey);
-    padding: 0px;
+    padding: 100px;
     margin: 0px;
 }
 
@@ -81,6 +81,7 @@ body {
 .footer {
     background-color: var(--white);
     height: auto;
+    max-height: 200px;
     display: flex;
     align-items: center;
     justify-content: space-between;
