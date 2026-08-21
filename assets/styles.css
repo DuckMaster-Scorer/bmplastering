@@ -68,7 +68,7 @@
 
 body {
     background-color: var(--grey);
-    padding: 100px;
+    padding: 0px;
     margin: 0px;
 }
 
@@ -86,4 +86,6 @@ body {
     align-items: center;
     justify-content: space-between;
     position: relative;
+    padding-top: 25px;
+    margin-top: 25px;
 }
