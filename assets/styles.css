@@ -11,6 +11,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    position: relative;
 }
 
 .nomargin {
@@ -52,7 +53,7 @@
 }
 
 @media screen and (max-width: 600px) {
-  .topnav.responsive {position: relative;}
+  .topnav.responsive {position: absolute; top: 100%; right: 0;}
   .topnav.responsive a.icon {
     position: absolute;
     right: 0;
