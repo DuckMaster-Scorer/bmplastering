@@ -29,6 +29,7 @@ nav {
   display: flexbox;
   text-align: center;
   position: relative;
+  font-family: 'Manrope';
 }
 
 .topnav a {
@@ -49,7 +50,7 @@ nav {
 }
 
 @media screen and (max-width: 600px) {
-  .topnav a:not(:first-child) {display: none;}
+  .topnav a {display: none;}
   .topnav a.icon {
     float: right;
     display: block;
@@ -142,4 +143,16 @@ p {
 .padding-sides {
   padding: 25vw;
   padding-top: 0px;
+}
+
+h3 {
+  font-size: 2.5vw;
+}
+
+h2 {
+  font-size: 2vw;
+}
+
+h3 {
+  font-size: 1.5vw;
 }
