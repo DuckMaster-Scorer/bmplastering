@@ -43,11 +43,6 @@ nav {
   color: var(--light-grey);
 }
 
-.topnav a.active {
-  background-color: var(--white);
-  color: var(--black);
-}
-
 .topnav .icon {
   display: none;
 }
