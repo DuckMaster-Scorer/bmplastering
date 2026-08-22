@@ -13,6 +13,7 @@
     justify-content: center;
     text-align: center;
     position: relative;
+    padding-top: 10px;
 }
 
 .nomargin {
@@ -21,6 +22,10 @@
 
 .nopadding {
     padding: 0;
+}
+
+.topnav {
+  background-color: var(--black);
 }
 
 .topnav a {
@@ -37,8 +42,8 @@
 }
 
 .topnav a.active {
-  background-color: var(--black);
-  color: var(--white);
+  background-color: var(--white);
+  color: var(--black);
 }
 
 .topnav .icon {
@@ -74,7 +79,7 @@ body {
 }
 
 .decorimg {
-    width: 18vw;
+    width: 20vw;
     height: auto;
     min-width: 119px;
 }
