@@ -32,6 +32,10 @@ nav {
   font-family: 'Manrope';
 }
 
+.topnav {
+  overflow: hidden;
+}
+
 .topnav a {
   display: inline-block;
   color: var(--light-grey);
