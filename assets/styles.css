@@ -86,8 +86,6 @@ main {
   min-height: 100vh;
   display: flexbox;
   text-align: center;
-  padding: 25vw;
-  padding-top: 0px;
 }
 
 .footer {
@@ -137,4 +135,9 @@ main {
 
 p {
   font-size: 1.2vw;
+}
+
+.padding-sides {
+  padding: 25vw;
+  padding-top: 0px;
 }
