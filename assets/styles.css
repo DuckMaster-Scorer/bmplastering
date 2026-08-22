@@ -26,11 +26,13 @@
 
 nav {
   background-color: var(--black);
+  display: flexbox;
+  text-align: center;
 }
 
 .topnav a {
   display: inline-block;
-  color: var(--grey);
+  color: var(--light-grey);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
