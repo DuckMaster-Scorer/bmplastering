@@ -115,3 +115,8 @@ main {
   color: var(--white);
   background-color: var(--black);
 }
+
+.header2 {
+  font-size: 5vw;
+  text-decoration: double;
+}
