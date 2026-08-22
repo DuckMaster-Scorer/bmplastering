@@ -80,6 +80,8 @@ body {
 
 main {
   min-height: 100vh;
+  display: flexbox;
+  text-align: center;
 }
 
 .footer {
