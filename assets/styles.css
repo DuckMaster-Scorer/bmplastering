@@ -50,11 +50,16 @@ nav {
 }
 
 @media screen and (max-width: 600px) {
-  .topnav a {display: none;}
+
+  .topnav a:not(.icon) {
+    display: none;
+  }
+
   .topnav a.icon {
     float: right;
     display: block;
   }
+
 }
 
 @media screen and (max-width: 600px) {
