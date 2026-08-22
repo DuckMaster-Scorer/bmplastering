@@ -105,3 +105,13 @@ main {
   border-top: 1px solid var(--light-grey);
   padding: 10px 0;
 }
+
+.bow {
+  background-color: var(--white);
+  color: var(--black);
+}
+
+.wob {
+  color: var(--white);
+  background-color: var(--black);
+}
