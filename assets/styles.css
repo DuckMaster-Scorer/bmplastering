@@ -120,3 +120,8 @@ main {
   font-size: 2vw;
   text-decoration: double;
 }
+
+.box {
+  display: flexbox;
+  text-align: center;
+}
