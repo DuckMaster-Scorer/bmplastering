@@ -57,7 +57,7 @@ nav {
 }
 
 @media screen and (max-width: 600px) {
-  .topnav.responsive {position: absolute; top: 100%; right: 0; background-color: var(--white);}
+  .topnav.responsive {position: absolute; top: 100%; right: 0; background-color: var(--black);}
   .topnav.responsive a.icon {
     position: absolute;
     right: 0;
