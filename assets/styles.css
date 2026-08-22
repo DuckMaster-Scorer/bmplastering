@@ -172,3 +172,8 @@ h2 {
 h3 {
   font-size: 1.5vw;
 }
+
+.svg-img {
+  width: 20vw;
+  height: auto;
+}
