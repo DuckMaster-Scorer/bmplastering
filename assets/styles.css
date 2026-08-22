@@ -28,6 +28,7 @@ nav {
   background-color: var(--black);
   display: flexbox;
   text-align: center;
+  position: relative;
 }
 
 .topnav a {
